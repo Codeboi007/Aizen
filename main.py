@@ -5,14 +5,38 @@ import webbrowser
 import datetime
 import time
 import json
-from vosk import Model, KaldiRecognizer
+import os
+import sys
 import pyaudio
+from vosk import Model, KaldiRecognizer
+
+# Ensure libvosk.dll loads correctly when frozen
+if getattr(sys, 'frozen', False):
+    os.environ['PATH'] += os.pathsep + sys._MEIPASS
+
+# Logging assistant start
+with open("C:\\Users\\User\\assistant_log.txt", "a") as f:
+    f.write("Assistant started at " + str(datetime.datetime.now()) + "\n")
 
 # Initialize voice engine
 engine = pyttsx3.init()
 
+# Get correct model path for bundled .exe or source script
+def get_model_path():
+    if getattr(sys, 'frozen', False):
+        base_path = sys._MEIPASS
+    else:
+        base_path = os.path.dirname(__file__)
+    return os.path.join(base_path, "vosk-model-small-en-us-0.15")
+
+model_path = get_model_path()
+
+# Debug file to confirm path
+with open("C:\\Users\\User\\model_debug.txt", "w") as f:
+    f.write("Model path used: " + model_path + "\n")
+
 # Load Vosk model
-model = Model("vosk-model-small-en-us-0.15")
+model = Model(model_path)
 recognizer = KaldiRecognizer(model, 16000)
 
 # PyAudio setup
@@ -21,11 +45,13 @@ stream = p.open(format=pyaudio.paInt16, channels=1, rate=16000,
                 input=True, frames_per_buffer=8192)
 stream.start_stream()
 
+# Text-to-speech
 def speak(text):
     print("Assistant:", text)
     engine.say(text)
     engine.runAndWait()
 
+# Voice input
 def listen():
     print("🎤 Listening with Vosk...")
     while True:
@@ -37,7 +63,7 @@ def listen():
                 print("You said:", command)
                 return command.lower()
 
-# Handle voice commands
+# Command handler
 def handle_command(command):
     if "chrome" in command:
         speak("Opening Chrome.")
@@ -63,10 +89,10 @@ def handle_command(command):
     else:
         speak("Sorry, I don't know that command.")
 
-# Startup greeting
+# Start
 speak("Hello! I’m your offline assistant, ready to help you.")
 
-# Main loop
+# Loop
 while True:
     command = listen()
     if command:
