@@ -1,6 +1,7 @@
 pyttsx3 
-SpeechRecognition 
 pyautogui 
 pyaudio
 pyinstaller
 vosk
+rapidfuzz
+
