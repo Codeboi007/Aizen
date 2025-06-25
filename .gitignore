@@ -4,3 +4,5 @@ dist
 main.spec
 vosk-model-small-en-us-0.15
 libvosk.dll
+app_index.json
+script.py
