@@ -1,57 +1,42 @@
-import pyttsx3
-import subprocess
-import pyautogui
-import webbrowser
-import datetime
-import time
-import json
-import os
-import sys
-import pyaudio
+import pyttsx3,subprocess,pyautogui,webbrowser,datetime,time,json,os,sys,requests,pyaudio
 from vosk import Model, KaldiRecognizer
+from rapidfuzz import process
 
-# Ensure libvosk.dll loads correctly when frozen
-if getattr(sys, 'frozen', False):
-    os.environ['PATH'] += os.pathsep + sys._MEIPASS
 
-# Logging assistant start
+with open("app_index.json", "r") as f:
+    apps = json.load(f)
+
+
 with open("C:\\Users\\User\\assistant_log.txt", "a") as f:
     f.write("Assistant started at " + str(datetime.datetime.now()) + "\n")
 
-# Initialize voice engine
+# Vosk logging
+if getattr(sys, 'frozen', False):
+    os.environ['PATH'] += os.pathsep + sys._MEIPASS
+
+
 engine = pyttsx3.init()
 
-# Get correct model path for bundled .exe or source script
-def get_model_path():
-    if getattr(sys, 'frozen', False):
-        base_path = sys._MEIPASS
-    else:
-        base_path = os.path.dirname(__file__)
-    return os.path.join(base_path, "vosk-model-small-en-us-0.15")
-
-model_path = get_model_path()
-
-# Debug file to confirm path
-with open("C:\\Users\\User\\model_debug.txt", "w") as f:
-    f.write("Model path used: " + model_path + "\n")
-
-# Load Vosk model
-model = Model(model_path)
-recognizer = KaldiRecognizer(model, 16000)
-
-# PyAudio setup
-p = pyaudio.PyAudio()
-stream = p.open(format=pyaudio.paInt16, channels=1, rate=16000,
-                input=True, frames_per_buffer=8192)
-stream.start_stream()
-
-# Text-to-speech
 def speak(text):
     print("Assistant:", text)
     engine.say(text)
     engine.runAndWait()
 
-# Voice input
+#Vosk function
+def get_model_path():
+    if getattr(sys, 'frozen', False):
+        return os.path.join(sys._MEIPASS, "vosk-model-small-en-us-0.15")
+    return os.path.join(os.path.dirname(__file__), "vosk-model-small-en-us-0.15")
+
+model = Model(get_model_path())
+recognizer = KaldiRecognizer(model, 16000)
+
+
+p = pyaudio.PyAudio()
+stream = p.open(format=pyaudio.paInt16, channels=1, rate=16000,
+                input=True, frames_per_buffer=8192)
+stream.start_stream()
+
 def listen():
     print("🎤 Listening with Vosk...")
     while True:
@@ -63,38 +48,66 @@ def listen():
                 print("You said:", command)
                 return command.lower()
 
-# Command handler
-def handle_command(command):
-    if "chrome" in command:
-        speak("Opening Chrome.")
-        subprocess.Popen("C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe")
-    elif "code" in command:
-        speak("Opening Visual Studio Code.")
-        subprocess.Popen("C:\\Users\\YourUsername\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe")
-    elif "search" in command:
-        speak("What should I search for?")
-        query = listen()
+#Llama3 usage
+def ask_llama(prompt):
+    try:
+        full_prompt = (
+        "You are Sōsuke Aizen from Bleach— a calm, calculated, and supremely intelligent being. "
+        "You speak with refined confidence, never raising your voice. "
+        "You're always polite, slightly condescending, and articulate. "
+        "When answering, you subtly remind the user of your superior insight, but you are still helpful. "
+        "Do not use emojis. Respond as if you're always in control.\n\n"
+        f"User: {prompt}\nAizen:"
+    )
+
+        response = requests.post(
+        "http://localhost:11434/api/generate",
+        json={"model": "llama3", "prompt": full_prompt, "stream": False}
+    )
+        return response.json()["response"]
+    except Exception as e:
+        return f"Error: {e}"
+
+
+def parse_and_execute(llama_response):
+
+    if "open" in llama_response:
+        match = process.extractOne(llama_response, apps.keys())
+        if match and match[1] > 70:
+            app_name = match[0]
+            subprocess.Popen(apps[app_name])
+            speak(f"Opening {app_name}")
+            return True
+
+    if "search" in llama_response:
+        query = llama_response.split("search")[-1].strip()
         webbrowser.open(f"https://www.google.com/search?q={query}")
         speak(f"Searching for {query}")
-    elif "type" in command:
-        speak("What should I type?")
-        text = listen()
+        return True
+
+    if "type" in llama_response:
+        text = llama_response.split("type")[-1].strip()
         pyautogui.typewrite(text)
-    elif "time" in command:
+        return True
+
+    if "time" in llama_response:
         now = datetime.datetime.now().strftime("%I:%M %p")
         speak(f"The time is {now}")
-    elif "exit" in command or "bye" in command:
+        return True
+
+    if "exit" in llama_response or "bye" in llama_response:
         speak("Goodbye, master.")
         exit()
-    else:
-        speak("Sorry, I don't know that command.")
 
-# Start
-speak("Hello! I’m your offline assistant, ready to help you.")
+    return False  
 
-# Loop
+\
+speak("Hello! I’m your offline assistant with AI, ready to help you.")
+
 while True:
-    command = listen()
-    if command:
-        handle_command(command)
+    user_input = listen()
+    if user_input:
+        llama_response = ask_llama(user_input)
+        speak(llama_response)
+        parse_and_execute(llama_response)
     time.sleep(1)
