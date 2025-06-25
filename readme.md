@@ -1,8 +1,4 @@
-Absolutely. Here's a clean, professional `README.md` based solely on what you've implemented **up to this point**, leaving Coqui TTS and advanced features in the "Future Improvements" section:
 
----
-
-````markdown
 # Aizen: Offline Voice Assistant for Windows
 
 Aizen is a local desktop voice assistant that runs entirely offline. It listens for commands, speaks responses, and helps navigate the system with minimal reliance on keyboard or mouse. Inspired by Sosuke Aizen (*Bleach*), it uses Vosk for offline speech recognition and pyttsx3 for voice output.
