@@ -1,0 +1,6706 @@
+[
+  {
+    "text": "open epic games launcher",
+    "label": "open_app"
+  },
+  {
+    "text": "start epic games launcher",
+    "label": "open_app"
+  },
+  {
+    "text": "launch epic games launcher",
+    "label": "open_app"
+  },
+  {
+    "text": "run epic games launcher",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up epic games launcher",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up epic games launcher",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate epic games launcher",
+    "label": "open_app"
+  },
+  {
+    "text": "execute epic games launcher",
+    "label": "open_app"
+  },
+  {
+    "text": "open excel",
+    "label": "open_app"
+  },
+  {
+    "text": "start excel",
+    "label": "open_app"
+  },
+  {
+    "text": "launch excel",
+    "label": "open_app"
+  },
+  {
+    "text": "run excel",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up excel",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up excel",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate excel",
+    "label": "open_app"
+  },
+  {
+    "text": "execute excel",
+    "label": "open_app"
+  },
+  {
+    "text": "open expressvpn",
+    "label": "open_app"
+  },
+  {
+    "text": "start expressvpn",
+    "label": "open_app"
+  },
+  {
+    "text": "launch expressvpn",
+    "label": "open_app"
+  },
+  {
+    "text": "run expressvpn",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up expressvpn",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up expressvpn",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate expressvpn",
+    "label": "open_app"
+  },
+  {
+    "text": "execute expressvpn",
+    "label": "open_app"
+  },
+  {
+    "text": "open google chrome",
+    "label": "open_app"
+  },
+  {
+    "text": "start google chrome",
+    "label": "open_app"
+  },
+  {
+    "text": "launch google chrome",
+    "label": "open_app"
+  },
+  {
+    "text": "run google chrome",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up google chrome",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up google chrome",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate google chrome",
+    "label": "open_app"
+  },
+  {
+    "text": "execute google chrome",
+    "label": "open_app"
+  },
+  {
+    "text": "open google drive",
+    "label": "open_app"
+  },
+  {
+    "text": "start google drive",
+    "label": "open_app"
+  },
+  {
+    "text": "launch google drive",
+    "label": "open_app"
+  },
+  {
+    "text": "run google drive",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up google drive",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up google drive",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate google drive",
+    "label": "open_app"
+  },
+  {
+    "text": "execute google drive",
+    "label": "open_app"
+  },
+  {
+    "text": "open hp documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "start hp documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "launch hp documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "run hp documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up hp documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up hp documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate hp documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "execute hp documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "open lastpass",
+    "label": "open_app"
+  },
+  {
+    "text": "start lastpass",
+    "label": "open_app"
+  },
+  {
+    "text": "launch lastpass",
+    "label": "open_app"
+  },
+  {
+    "text": "run lastpass",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up lastpass",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up lastpass",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate lastpass",
+    "label": "open_app"
+  },
+  {
+    "text": "execute lastpass",
+    "label": "open_app"
+  },
+  {
+    "text": "open microsoft edge",
+    "label": "open_app"
+  },
+  {
+    "text": "start microsoft edge",
+    "label": "open_app"
+  },
+  {
+    "text": "launch microsoft edge",
+    "label": "open_app"
+  },
+  {
+    "text": "run microsoft edge",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up microsoft edge",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up microsoft edge",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate microsoft edge",
+    "label": "open_app"
+  },
+  {
+    "text": "execute microsoft edge",
+    "label": "open_app"
+  },
+  {
+    "text": "open onenote",
+    "label": "open_app"
+  },
+  {
+    "text": "start onenote",
+    "label": "open_app"
+  },
+  {
+    "text": "launch onenote",
+    "label": "open_app"
+  },
+  {
+    "text": "run onenote",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up onenote",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up onenote",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate onenote",
+    "label": "open_app"
+  },
+  {
+    "text": "execute onenote",
+    "label": "open_app"
+  },
+  {
+    "text": "open powerpoint",
+    "label": "open_app"
+  },
+  {
+    "text": "start powerpoint",
+    "label": "open_app"
+  },
+  {
+    "text": "launch powerpoint",
+    "label": "open_app"
+  },
+  {
+    "text": "run powerpoint",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up powerpoint",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up powerpoint",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate powerpoint",
+    "label": "open_app"
+  },
+  {
+    "text": "execute powerpoint",
+    "label": "open_app"
+  },
+  {
+    "text": "open rainmeter",
+    "label": "open_app"
+  },
+  {
+    "text": "start rainmeter",
+    "label": "open_app"
+  },
+  {
+    "text": "launch rainmeter",
+    "label": "open_app"
+  },
+  {
+    "text": "run rainmeter",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up rainmeter",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up rainmeter",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate rainmeter",
+    "label": "open_app"
+  },
+  {
+    "text": "execute rainmeter",
+    "label": "open_app"
+  },
+  {
+    "text": "open shareit",
+    "label": "open_app"
+  },
+  {
+    "text": "start shareit",
+    "label": "open_app"
+  },
+  {
+    "text": "launch shareit",
+    "label": "open_app"
+  },
+  {
+    "text": "run shareit",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up shareit",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up shareit",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate shareit",
+    "label": "open_app"
+  },
+  {
+    "text": "execute shareit",
+    "label": "open_app"
+  },
+  {
+    "text": "open sticky notes (new)",
+    "label": "open_app"
+  },
+  {
+    "text": "start sticky notes (new)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch sticky notes (new)",
+    "label": "open_app"
+  },
+  {
+    "text": "run sticky notes (new)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up sticky notes (new)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up sticky notes (new)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate sticky notes (new)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute sticky notes (new)",
+    "label": "open_app"
+  },
+  {
+    "text": "open visual studio installer",
+    "label": "open_app"
+  },
+  {
+    "text": "start visual studio installer",
+    "label": "open_app"
+  },
+  {
+    "text": "launch visual studio installer",
+    "label": "open_app"
+  },
+  {
+    "text": "run visual studio installer",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up visual studio installer",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up visual studio installer",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate visual studio installer",
+    "label": "open_app"
+  },
+  {
+    "text": "execute visual studio installer",
+    "label": "open_app"
+  },
+  {
+    "text": "open wallpaper engine 2.3.26",
+    "label": "open_app"
+  },
+  {
+    "text": "start wallpaper engine 2.3.26",
+    "label": "open_app"
+  },
+  {
+    "text": "launch wallpaper engine 2.3.26",
+    "label": "open_app"
+  },
+  {
+    "text": "run wallpaper engine 2.3.26",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up wallpaper engine 2.3.26",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up wallpaper engine 2.3.26",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate wallpaper engine 2.3.26",
+    "label": "open_app"
+  },
+  {
+    "text": "execute wallpaper engine 2.3.26",
+    "label": "open_app"
+  },
+  {
+    "text": "open word",
+    "label": "open_app"
+  },
+  {
+    "text": "start word",
+    "label": "open_app"
+  },
+  {
+    "text": "launch word",
+    "label": "open_app"
+  },
+  {
+    "text": "run word",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up word",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up word",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate word",
+    "label": "open_app"
+  },
+  {
+    "text": "execute word",
+    "label": "open_app"
+  },
+  {
+    "text": "open wsl settings",
+    "label": "open_app"
+  },
+  {
+    "text": "start wsl settings",
+    "label": "open_app"
+  },
+  {
+    "text": "launch wsl settings",
+    "label": "open_app"
+  },
+  {
+    "text": "run wsl settings",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up wsl settings",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up wsl settings",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate wsl settings",
+    "label": "open_app"
+  },
+  {
+    "text": "execute wsl settings",
+    "label": "open_app"
+  },
+  {
+    "text": "open wsl",
+    "label": "open_app"
+  },
+  {
+    "text": "start wsl",
+    "label": "open_app"
+  },
+  {
+    "text": "launch wsl",
+    "label": "open_app"
+  },
+  {
+    "text": "run wsl",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up wsl",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up wsl",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate wsl",
+    "label": "open_app"
+  },
+  {
+    "text": "execute wsl",
+    "label": "open_app"
+  },
+  {
+    "text": "open speech recognition",
+    "label": "open_app"
+  },
+  {
+    "text": "start speech recognition",
+    "label": "open_app"
+  },
+  {
+    "text": "launch speech recognition",
+    "label": "open_app"
+  },
+  {
+    "text": "run speech recognition",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up speech recognition",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up speech recognition",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate speech recognition",
+    "label": "open_app"
+  },
+  {
+    "text": "execute speech recognition",
+    "label": "open_app"
+  },
+  {
+    "text": "open remote desktop connection",
+    "label": "open_app"
+  },
+  {
+    "text": "start remote desktop connection",
+    "label": "open_app"
+  },
+  {
+    "text": "launch remote desktop connection",
+    "label": "open_app"
+  },
+  {
+    "text": "run remote desktop connection",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up remote desktop connection",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up remote desktop connection",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate remote desktop connection",
+    "label": "open_app"
+  },
+  {
+    "text": "execute remote desktop connection",
+    "label": "open_app"
+  },
+  {
+    "text": "open steps recorder",
+    "label": "open_app"
+  },
+  {
+    "text": "start steps recorder",
+    "label": "open_app"
+  },
+  {
+    "text": "launch steps recorder",
+    "label": "open_app"
+  },
+  {
+    "text": "run steps recorder",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up steps recorder",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up steps recorder",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate steps recorder",
+    "label": "open_app"
+  },
+  {
+    "text": "execute steps recorder",
+    "label": "open_app"
+  },
+  {
+    "text": "open windows media player legacy",
+    "label": "open_app"
+  },
+  {
+    "text": "start windows media player legacy",
+    "label": "open_app"
+  },
+  {
+    "text": "launch windows media player legacy",
+    "label": "open_app"
+  },
+  {
+    "text": "run windows media player legacy",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up windows media player legacy",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up windows media player legacy",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate windows media player legacy",
+    "label": "open_app"
+  },
+  {
+    "text": "execute windows media player legacy",
+    "label": "open_app"
+  },
+  {
+    "text": "open wordpad",
+    "label": "open_app"
+  },
+  {
+    "text": "start wordpad",
+    "label": "open_app"
+  },
+  {
+    "text": "launch wordpad",
+    "label": "open_app"
+  },
+  {
+    "text": "run wordpad",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up wordpad",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up wordpad",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate wordpad",
+    "label": "open_app"
+  },
+  {
+    "text": "execute wordpad",
+    "label": "open_app"
+  },
+  {
+    "text": "open xps viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "start xps viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "launch xps viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "run xps viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up xps viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up xps viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate xps viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "execute xps viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "open character map",
+    "label": "open_app"
+  },
+  {
+    "text": "start character map",
+    "label": "open_app"
+  },
+  {
+    "text": "launch character map",
+    "label": "open_app"
+  },
+  {
+    "text": "run character map",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up character map",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up character map",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate character map",
+    "label": "open_app"
+  },
+  {
+    "text": "execute character map",
+    "label": "open_app"
+  },
+  {
+    "text": "open component services",
+    "label": "open_app"
+  },
+  {
+    "text": "start component services",
+    "label": "open_app"
+  },
+  {
+    "text": "launch component services",
+    "label": "open_app"
+  },
+  {
+    "text": "run component services",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up component services",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up component services",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate component services",
+    "label": "open_app"
+  },
+  {
+    "text": "execute component services",
+    "label": "open_app"
+  },
+  {
+    "text": "open computer management",
+    "label": "open_app"
+  },
+  {
+    "text": "start computer management",
+    "label": "open_app"
+  },
+  {
+    "text": "launch computer management",
+    "label": "open_app"
+  },
+  {
+    "text": "run computer management",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up computer management",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up computer management",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate computer management",
+    "label": "open_app"
+  },
+  {
+    "text": "execute computer management",
+    "label": "open_app"
+  },
+  {
+    "text": "open dfrgui",
+    "label": "open_app"
+  },
+  {
+    "text": "start dfrgui",
+    "label": "open_app"
+  },
+  {
+    "text": "launch dfrgui",
+    "label": "open_app"
+  },
+  {
+    "text": "run dfrgui",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up dfrgui",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up dfrgui",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate dfrgui",
+    "label": "open_app"
+  },
+  {
+    "text": "execute dfrgui",
+    "label": "open_app"
+  },
+  {
+    "text": "open disk cleanup",
+    "label": "open_app"
+  },
+  {
+    "text": "start disk cleanup",
+    "label": "open_app"
+  },
+  {
+    "text": "launch disk cleanup",
+    "label": "open_app"
+  },
+  {
+    "text": "run disk cleanup",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up disk cleanup",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up disk cleanup",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate disk cleanup",
+    "label": "open_app"
+  },
+  {
+    "text": "execute disk cleanup",
+    "label": "open_app"
+  },
+  {
+    "text": "open event viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "start event viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "launch event viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "run event viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up event viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up event viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate event viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "execute event viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "open iscsi initiator",
+    "label": "open_app"
+  },
+  {
+    "text": "start iscsi initiator",
+    "label": "open_app"
+  },
+  {
+    "text": "launch iscsi initiator",
+    "label": "open_app"
+  },
+  {
+    "text": "run iscsi initiator",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up iscsi initiator",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up iscsi initiator",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate iscsi initiator",
+    "label": "open_app"
+  },
+  {
+    "text": "execute iscsi initiator",
+    "label": "open_app"
+  },
+  {
+    "text": "open memory diagnostics tool",
+    "label": "open_app"
+  },
+  {
+    "text": "start memory diagnostics tool",
+    "label": "open_app"
+  },
+  {
+    "text": "launch memory diagnostics tool",
+    "label": "open_app"
+  },
+  {
+    "text": "run memory diagnostics tool",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up memory diagnostics tool",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up memory diagnostics tool",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate memory diagnostics tool",
+    "label": "open_app"
+  },
+  {
+    "text": "execute memory diagnostics tool",
+    "label": "open_app"
+  },
+  {
+    "text": "open odbc data sources (32-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start odbc data sources (32-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch odbc data sources (32-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run odbc data sources (32-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up odbc data sources (32-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up odbc data sources (32-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate odbc data sources (32-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute odbc data sources (32-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open odbc data sources (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start odbc data sources (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch odbc data sources (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run odbc data sources (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up odbc data sources (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up odbc data sources (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate odbc data sources (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute odbc data sources (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open performance monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "start performance monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "launch performance monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "run performance monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up performance monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up performance monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate performance monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "execute performance monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "open recoverydrive",
+    "label": "open_app"
+  },
+  {
+    "text": "start recoverydrive",
+    "label": "open_app"
+  },
+  {
+    "text": "launch recoverydrive",
+    "label": "open_app"
+  },
+  {
+    "text": "run recoverydrive",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up recoverydrive",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up recoverydrive",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate recoverydrive",
+    "label": "open_app"
+  },
+  {
+    "text": "execute recoverydrive",
+    "label": "open_app"
+  },
+  {
+    "text": "open registry editor",
+    "label": "open_app"
+  },
+  {
+    "text": "start registry editor",
+    "label": "open_app"
+  },
+  {
+    "text": "launch registry editor",
+    "label": "open_app"
+  },
+  {
+    "text": "run registry editor",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up registry editor",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up registry editor",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate registry editor",
+    "label": "open_app"
+  },
+  {
+    "text": "execute registry editor",
+    "label": "open_app"
+  },
+  {
+    "text": "open resource monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "start resource monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "launch resource monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "run resource monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up resource monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up resource monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate resource monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "execute resource monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "open services",
+    "label": "open_app"
+  },
+  {
+    "text": "start services",
+    "label": "open_app"
+  },
+  {
+    "text": "launch services",
+    "label": "open_app"
+  },
+  {
+    "text": "run services",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up services",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up services",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate services",
+    "label": "open_app"
+  },
+  {
+    "text": "execute services",
+    "label": "open_app"
+  },
+  {
+    "text": "open system configuration",
+    "label": "open_app"
+  },
+  {
+    "text": "start system configuration",
+    "label": "open_app"
+  },
+  {
+    "text": "launch system configuration",
+    "label": "open_app"
+  },
+  {
+    "text": "run system configuration",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up system configuration",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up system configuration",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate system configuration",
+    "label": "open_app"
+  },
+  {
+    "text": "execute system configuration",
+    "label": "open_app"
+  },
+  {
+    "text": "open system information",
+    "label": "open_app"
+  },
+  {
+    "text": "start system information",
+    "label": "open_app"
+  },
+  {
+    "text": "launch system information",
+    "label": "open_app"
+  },
+  {
+    "text": "run system information",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up system information",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up system information",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate system information",
+    "label": "open_app"
+  },
+  {
+    "text": "execute system information",
+    "label": "open_app"
+  },
+  {
+    "text": "open task scheduler",
+    "label": "open_app"
+  },
+  {
+    "text": "start task scheduler",
+    "label": "open_app"
+  },
+  {
+    "text": "launch task scheduler",
+    "label": "open_app"
+  },
+  {
+    "text": "run task scheduler",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up task scheduler",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up task scheduler",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate task scheduler",
+    "label": "open_app"
+  },
+  {
+    "text": "execute task scheduler",
+    "label": "open_app"
+  },
+  {
+    "text": "open windows defender firewall with advanced security",
+    "label": "open_app"
+  },
+  {
+    "text": "start windows defender firewall with advanced security",
+    "label": "open_app"
+  },
+  {
+    "text": "launch windows defender firewall with advanced security",
+    "label": "open_app"
+  },
+  {
+    "text": "run windows defender firewall with advanced security",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up windows defender firewall with advanced security",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up windows defender firewall with advanced security",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate windows defender firewall with advanced security",
+    "label": "open_app"
+  },
+  {
+    "text": "execute windows defender firewall with advanced security",
+    "label": "open_app"
+  },
+  {
+    "text": "open photosync",
+    "label": "open_app"
+  },
+  {
+    "text": "start photosync",
+    "label": "open_app"
+  },
+  {
+    "text": "launch photosync",
+    "label": "open_app"
+  },
+  {
+    "text": "run photosync",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up photosync",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up photosync",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate photosync",
+    "label": "open_app"
+  },
+  {
+    "text": "execute photosync",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall photosync",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall photosync",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall photosync",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall photosync",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall photosync",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall photosync",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall photosync",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall photosync",
+    "label": "open_app"
+  },
+  {
+    "text": "open cheat engine (32-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start cheat engine (32-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch cheat engine (32-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run cheat engine (32-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up cheat engine (32-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up cheat engine (32-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate cheat engine (32-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute cheat engine (32-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open cheat engine (64-bit sse4-avx2)",
+    "label": "open_app"
+  },
+  {
+    "text": "start cheat engine (64-bit sse4-avx2)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch cheat engine (64-bit sse4-avx2)",
+    "label": "open_app"
+  },
+  {
+    "text": "run cheat engine (64-bit sse4-avx2)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up cheat engine (64-bit sse4-avx2)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up cheat engine (64-bit sse4-avx2)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate cheat engine (64-bit sse4-avx2)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute cheat engine (64-bit sse4-avx2)",
+    "label": "open_app"
+  },
+  {
+    "text": "open cheat engine (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start cheat engine (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch cheat engine (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run cheat engine (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up cheat engine (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up cheat engine (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate cheat engine (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute cheat engine (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open cheat engine help",
+    "label": "open_app"
+  },
+  {
+    "text": "start cheat engine help",
+    "label": "open_app"
+  },
+  {
+    "text": "launch cheat engine help",
+    "label": "open_app"
+  },
+  {
+    "text": "run cheat engine help",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up cheat engine help",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up cheat engine help",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate cheat engine help",
+    "label": "open_app"
+  },
+  {
+    "text": "execute cheat engine help",
+    "label": "open_app"
+  },
+  {
+    "text": "open cheat engine tutorial (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start cheat engine tutorial (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch cheat engine tutorial (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run cheat engine tutorial (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up cheat engine tutorial (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up cheat engine tutorial (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate cheat engine tutorial (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute cheat engine tutorial (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open cheat engine tutorial",
+    "label": "open_app"
+  },
+  {
+    "text": "start cheat engine tutorial",
+    "label": "open_app"
+  },
+  {
+    "text": "launch cheat engine tutorial",
+    "label": "open_app"
+  },
+  {
+    "text": "run cheat engine tutorial",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up cheat engine tutorial",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up cheat engine tutorial",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate cheat engine tutorial",
+    "label": "open_app"
+  },
+  {
+    "text": "execute cheat engine tutorial",
+    "label": "open_app"
+  },
+  {
+    "text": "open cheat engine",
+    "label": "open_app"
+  },
+  {
+    "text": "start cheat engine",
+    "label": "open_app"
+  },
+  {
+    "text": "launch cheat engine",
+    "label": "open_app"
+  },
+  {
+    "text": "run cheat engine",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up cheat engine",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up cheat engine",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate cheat engine",
+    "label": "open_app"
+  },
+  {
+    "text": "execute cheat engine",
+    "label": "open_app"
+  },
+  {
+    "text": "open lua documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "start lua documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "launch lua documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "run lua documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up lua documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up lua documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate lua documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "execute lua documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "open reset settings",
+    "label": "open_app"
+  },
+  {
+    "text": "start reset settings",
+    "label": "open_app"
+  },
+  {
+    "text": "launch reset settings",
+    "label": "open_app"
+  },
+  {
+    "text": "run reset settings",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up reset settings",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up reset settings",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate reset settings",
+    "label": "open_app"
+  },
+  {
+    "text": "execute reset settings",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall cheat engine",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall cheat engine",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall cheat engine",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall cheat engine",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall cheat engine",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall cheat engine",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall cheat engine",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall cheat engine",
+    "label": "open_app"
+  },
+  {
+    "text": "open unload kernel module",
+    "label": "open_app"
+  },
+  {
+    "text": "start unload kernel module",
+    "label": "open_app"
+  },
+  {
+    "text": "launch unload kernel module",
+    "label": "open_app"
+  },
+  {
+    "text": "run unload kernel module",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up unload kernel module",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up unload kernel module",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate unload kernel module",
+    "label": "open_app"
+  },
+  {
+    "text": "execute unload kernel module",
+    "label": "open_app"
+  },
+  {
+    "text": "open cmake (cmake-gui)",
+    "label": "open_app"
+  },
+  {
+    "text": "start cmake (cmake-gui)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch cmake (cmake-gui)",
+    "label": "open_app"
+  },
+  {
+    "text": "run cmake (cmake-gui)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up cmake (cmake-gui)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up cmake (cmake-gui)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate cmake (cmake-gui)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute cmake (cmake-gui)",
+    "label": "open_app"
+  },
+  {
+    "text": "open cmake documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "start cmake documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "launch cmake documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "run cmake documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up cmake documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up cmake documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate cmake documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "execute cmake documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall cmake",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall cmake",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall cmake",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall cmake",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall cmake",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall cmake",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall cmake",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall cmake",
+    "label": "open_app"
+  },
+  {
+    "text": "open cpu-z",
+    "label": "open_app"
+  },
+  {
+    "text": "start cpu-z",
+    "label": "open_app"
+  },
+  {
+    "text": "launch cpu-z",
+    "label": "open_app"
+  },
+  {
+    "text": "run cpu-z",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up cpu-z",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up cpu-z",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate cpu-z",
+    "label": "open_app"
+  },
+  {
+    "text": "execute cpu-z",
+    "label": "open_app"
+  },
+  {
+    "text": "open edit cpu-z config file",
+    "label": "open_app"
+  },
+  {
+    "text": "start edit cpu-z config file",
+    "label": "open_app"
+  },
+  {
+    "text": "launch edit cpu-z config file",
+    "label": "open_app"
+  },
+  {
+    "text": "run edit cpu-z config file",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up edit cpu-z config file",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up edit cpu-z config file",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate edit cpu-z config file",
+    "label": "open_app"
+  },
+  {
+    "text": "execute edit cpu-z config file",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall cpu-z",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall cpu-z",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall cpu-z",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall cpu-z",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall cpu-z",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall cpu-z",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall cpu-z",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall cpu-z",
+    "label": "open_app"
+  },
+  {
+    "text": "open dopdf help",
+    "label": "open_app"
+  },
+  {
+    "text": "start dopdf help",
+    "label": "open_app"
+  },
+  {
+    "text": "launch dopdf help",
+    "label": "open_app"
+  },
+  {
+    "text": "run dopdf help",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up dopdf help",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up dopdf help",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate dopdf help",
+    "label": "open_app"
+  },
+  {
+    "text": "execute dopdf help",
+    "label": "open_app"
+  },
+  {
+    "text": "open dopdf",
+    "label": "open_app"
+  },
+  {
+    "text": "start dopdf",
+    "label": "open_app"
+  },
+  {
+    "text": "launch dopdf",
+    "label": "open_app"
+  },
+  {
+    "text": "run dopdf",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up dopdf",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up dopdf",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate dopdf",
+    "label": "open_app"
+  },
+  {
+    "text": "execute dopdf",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall dopdf 7",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall dopdf 7",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall dopdf 7",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall dopdf 7",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall dopdf 7",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall dopdf 7",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall dopdf 7",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall dopdf 7",
+    "label": "open_app"
+  },
+  {
+    "text": "open visit the forum",
+    "label": "open_app"
+  },
+  {
+    "text": "start visit the forum",
+    "label": "open_app"
+  },
+  {
+    "text": "launch visit the forum",
+    "label": "open_app"
+  },
+  {
+    "text": "run visit the forum",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up visit the forum",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up visit the forum",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate visit the forum",
+    "label": "open_app"
+  },
+  {
+    "text": "execute visit the forum",
+    "label": "open_app"
+  },
+  {
+    "text": "open driverscloud(64)",
+    "label": "open_app"
+  },
+  {
+    "text": "start driverscloud(64)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch driverscloud(64)",
+    "label": "open_app"
+  },
+  {
+    "text": "run driverscloud(64)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up driverscloud(64)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up driverscloud(64)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate driverscloud(64)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute driverscloud(64)",
+    "label": "open_app"
+  },
+  {
+    "text": "open driverscloud.com",
+    "label": "open_app"
+  },
+  {
+    "text": "start driverscloud.com",
+    "label": "open_app"
+  },
+  {
+    "text": "launch driverscloud.com",
+    "label": "open_app"
+  },
+  {
+    "text": "run driverscloud.com",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up driverscloud.com",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up driverscloud.com",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate driverscloud.com",
+    "label": "open_app"
+  },
+  {
+    "text": "execute driverscloud.com",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall driverscloud.com 12.0.24",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall driverscloud.com 12.0.24",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall driverscloud.com 12.0.24",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall driverscloud.com 12.0.24",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall driverscloud.com 12.0.24",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall driverscloud.com 12.0.24",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall driverscloud.com 12.0.24",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall driverscloud.com 12.0.24",
+    "label": "open_app"
+  },
+  {
+    "text": "open free download manager",
+    "label": "open_app"
+  },
+  {
+    "text": "start free download manager",
+    "label": "open_app"
+  },
+  {
+    "text": "launch free download manager",
+    "label": "open_app"
+  },
+  {
+    "text": "run free download manager",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up free download manager",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up free download manager",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate free download manager",
+    "label": "open_app"
+  },
+  {
+    "text": "execute free download manager",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall free download manager",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall free download manager",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall free download manager",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall free download manager",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall free download manager",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall free download manager",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall free download manager",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall free download manager",
+    "label": "open_app"
+  },
+  {
+    "text": "open git bash",
+    "label": "open_app"
+  },
+  {
+    "text": "start git bash",
+    "label": "open_app"
+  },
+  {
+    "text": "launch git bash",
+    "label": "open_app"
+  },
+  {
+    "text": "run git bash",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up git bash",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up git bash",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate git bash",
+    "label": "open_app"
+  },
+  {
+    "text": "execute git bash",
+    "label": "open_app"
+  },
+  {
+    "text": "open git cmd",
+    "label": "open_app"
+  },
+  {
+    "text": "start git cmd",
+    "label": "open_app"
+  },
+  {
+    "text": "launch git cmd",
+    "label": "open_app"
+  },
+  {
+    "text": "run git cmd",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up git cmd",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up git cmd",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate git cmd",
+    "label": "open_app"
+  },
+  {
+    "text": "execute git cmd",
+    "label": "open_app"
+  },
+  {
+    "text": "open git gui",
+    "label": "open_app"
+  },
+  {
+    "text": "start git gui",
+    "label": "open_app"
+  },
+  {
+    "text": "launch git gui",
+    "label": "open_app"
+  },
+  {
+    "text": "run git gui",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up git gui",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up git gui",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate git gui",
+    "label": "open_app"
+  },
+  {
+    "text": "execute git gui",
+    "label": "open_app"
+  },
+  {
+    "text": "open git release notes",
+    "label": "open_app"
+  },
+  {
+    "text": "start git release notes",
+    "label": "open_app"
+  },
+  {
+    "text": "launch git release notes",
+    "label": "open_app"
+  },
+  {
+    "text": "run git release notes",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up git release notes",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up git release notes",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate git release notes",
+    "label": "open_app"
+  },
+  {
+    "text": "execute git release notes",
+    "label": "open_app"
+  },
+  {
+    "text": "open play hogwarts legacy",
+    "label": "open_app"
+  },
+  {
+    "text": "start play hogwarts legacy",
+    "label": "open_app"
+  },
+  {
+    "text": "launch play hogwarts legacy",
+    "label": "open_app"
+  },
+  {
+    "text": "run play hogwarts legacy",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up play hogwarts legacy",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up play hogwarts legacy",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate play hogwarts legacy",
+    "label": "open_app"
+  },
+  {
+    "text": "execute play hogwarts legacy",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall",
+    "label": "open_app"
+  },
+  {
+    "text": "open office language preferences",
+    "label": "open_app"
+  },
+  {
+    "text": "start office language preferences",
+    "label": "open_app"
+  },
+  {
+    "text": "launch office language preferences",
+    "label": "open_app"
+  },
+  {
+    "text": "run office language preferences",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up office language preferences",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up office language preferences",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate office language preferences",
+    "label": "open_app"
+  },
+  {
+    "text": "execute office language preferences",
+    "label": "open_app"
+  },
+  {
+    "text": "open mysql installer - community",
+    "label": "open_app"
+  },
+  {
+    "text": "start mysql installer - community",
+    "label": "open_app"
+  },
+  {
+    "text": "launch mysql installer - community",
+    "label": "open_app"
+  },
+  {
+    "text": "run mysql installer - community",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up mysql installer - community",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up mysql installer - community",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate mysql installer - community",
+    "label": "open_app"
+  },
+  {
+    "text": "execute mysql installer - community",
+    "label": "open_app"
+  },
+  {
+    "text": "open mysql 8.0 command line client - unicode",
+    "label": "open_app"
+  },
+  {
+    "text": "start mysql 8.0 command line client - unicode",
+    "label": "open_app"
+  },
+  {
+    "text": "launch mysql 8.0 command line client - unicode",
+    "label": "open_app"
+  },
+  {
+    "text": "run mysql 8.0 command line client - unicode",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up mysql 8.0 command line client - unicode",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up mysql 8.0 command line client - unicode",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate mysql 8.0 command line client - unicode",
+    "label": "open_app"
+  },
+  {
+    "text": "execute mysql 8.0 command line client - unicode",
+    "label": "open_app"
+  },
+  {
+    "text": "open mysql 8.0 command line client",
+    "label": "open_app"
+  },
+  {
+    "text": "start mysql 8.0 command line client",
+    "label": "open_app"
+  },
+  {
+    "text": "launch mysql 8.0 command line client",
+    "label": "open_app"
+  },
+  {
+    "text": "run mysql 8.0 command line client",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up mysql 8.0 command line client",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up mysql 8.0 command line client",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate mysql 8.0 command line client",
+    "label": "open_app"
+  },
+  {
+    "text": "execute mysql 8.0 command line client",
+    "label": "open_app"
+  },
+  {
+    "text": "open install additional tools for node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "start install additional tools for node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "launch install additional tools for node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "run install additional tools for node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up install additional tools for node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up install additional tools for node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate install additional tools for node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "execute install additional tools for node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "open node.js command prompt",
+    "label": "open_app"
+  },
+  {
+    "text": "start node.js command prompt",
+    "label": "open_app"
+  },
+  {
+    "text": "launch node.js command prompt",
+    "label": "open_app"
+  },
+  {
+    "text": "run node.js command prompt",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up node.js command prompt",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up node.js command prompt",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate node.js command prompt",
+    "label": "open_app"
+  },
+  {
+    "text": "execute node.js command prompt",
+    "label": "open_app"
+  },
+  {
+    "text": "open node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "start node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "launch node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "run node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "execute node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall node.js",
+    "label": "open_app"
+  },
+  {
+    "text": "open geforce experience",
+    "label": "open_app"
+  },
+  {
+    "text": "start geforce experience",
+    "label": "open_app"
+  },
+  {
+    "text": "launch geforce experience",
+    "label": "open_app"
+  },
+  {
+    "text": "run geforce experience",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up geforce experience",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up geforce experience",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate geforce experience",
+    "label": "open_app"
+  },
+  {
+    "text": "execute geforce experience",
+    "label": "open_app"
+  },
+  {
+    "text": "open nvidia app",
+    "label": "open_app"
+  },
+  {
+    "text": "start nvidia app",
+    "label": "open_app"
+  },
+  {
+    "text": "launch nvidia app",
+    "label": "open_app"
+  },
+  {
+    "text": "run nvidia app",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up nvidia app",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up nvidia app",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate nvidia app",
+    "label": "open_app"
+  },
+  {
+    "text": "execute nvidia app",
+    "label": "open_app"
+  },
+  {
+    "text": "open nsight compute",
+    "label": "open_app"
+  },
+  {
+    "text": "start nsight compute",
+    "label": "open_app"
+  },
+  {
+    "text": "launch nsight compute",
+    "label": "open_app"
+  },
+  {
+    "text": "run nsight compute",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up nsight compute",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up nsight compute",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate nsight compute",
+    "label": "open_app"
+  },
+  {
+    "text": "execute nsight compute",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall nvidia nsight compute 2022.3.0",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall nvidia nsight compute 2022.3.0",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall nvidia nsight compute 2022.3.0",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall nvidia nsight compute 2022.3.0",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall nvidia nsight compute 2022.3.0",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall nvidia nsight compute 2022.3.0",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall nvidia nsight compute 2022.3.0",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall nvidia nsight compute 2022.3.0",
+    "label": "open_app"
+  },
+  {
+    "text": "open nsight systems 2020.3.4",
+    "label": "open_app"
+  },
+  {
+    "text": "start nsight systems 2020.3.4",
+    "label": "open_app"
+  },
+  {
+    "text": "launch nsight systems 2020.3.4",
+    "label": "open_app"
+  },
+  {
+    "text": "run nsight systems 2020.3.4",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up nsight systems 2020.3.4",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up nsight systems 2020.3.4",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate nsight systems 2020.3.4",
+    "label": "open_app"
+  },
+  {
+    "text": "execute nsight systems 2020.3.4",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall nvidia nsight systems 2020.3.4",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall nvidia nsight systems 2020.3.4",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall nvidia nsight systems 2020.3.4",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall nvidia nsight systems 2020.3.4",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall nvidia nsight systems 2020.3.4",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall nvidia nsight systems 2020.3.4",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall nvidia nsight systems 2020.3.4",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall nvidia nsight systems 2020.3.4",
+    "label": "open_app"
+  },
+  {
+    "text": "open nsight systems 2022.4.2",
+    "label": "open_app"
+  },
+  {
+    "text": "start nsight systems 2022.4.2",
+    "label": "open_app"
+  },
+  {
+    "text": "launch nsight systems 2022.4.2",
+    "label": "open_app"
+  },
+  {
+    "text": "run nsight systems 2022.4.2",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up nsight systems 2022.4.2",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up nsight systems 2022.4.2",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate nsight systems 2022.4.2",
+    "label": "open_app"
+  },
+  {
+    "text": "execute nsight systems 2022.4.2",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall nvidia nsight systems 2022.4.2",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall nvidia nsight systems 2022.4.2",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall nvidia nsight systems 2022.4.2",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall nvidia nsight systems 2022.4.2",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall nvidia nsight systems 2022.4.2",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall nvidia nsight systems 2022.4.2",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall nvidia nsight systems 2022.4.2",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall nvidia nsight systems 2022.4.2",
+    "label": "open_app"
+  },
+  {
+    "text": "open nsight systems 2023.4.4",
+    "label": "open_app"
+  },
+  {
+    "text": "start nsight systems 2023.4.4",
+    "label": "open_app"
+  },
+  {
+    "text": "launch nsight systems 2023.4.4",
+    "label": "open_app"
+  },
+  {
+    "text": "run nsight systems 2023.4.4",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up nsight systems 2023.4.4",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up nsight systems 2023.4.4",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate nsight systems 2023.4.4",
+    "label": "open_app"
+  },
+  {
+    "text": "execute nsight systems 2023.4.4",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall nvidia nsight systems 2023.4.4",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall nvidia nsight systems 2023.4.4",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall nvidia nsight systems 2023.4.4",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall nvidia nsight systems 2023.4.4",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall nvidia nsight systems 2023.4.4",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall nvidia nsight systems 2023.4.4",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall nvidia nsight systems 2023.4.4",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall nvidia nsight systems 2023.4.4",
+    "label": "open_app"
+  },
+  {
+    "text": "open nsight systems 2025.1.3",
+    "label": "open_app"
+  },
+  {
+    "text": "start nsight systems 2025.1.3",
+    "label": "open_app"
+  },
+  {
+    "text": "launch nsight systems 2025.1.3",
+    "label": "open_app"
+  },
+  {
+    "text": "run nsight systems 2025.1.3",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up nsight systems 2025.1.3",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up nsight systems 2025.1.3",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate nsight systems 2025.1.3",
+    "label": "open_app"
+  },
+  {
+    "text": "execute nsight systems 2025.1.3",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall nvidia nsight systems 2025.1.3",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall nvidia nsight systems 2025.1.3",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall nvidia nsight systems 2025.1.3",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall nvidia nsight systems 2025.1.3",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall nvidia nsight systems 2025.1.3",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall nvidia nsight systems 2025.1.3",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall nvidia nsight systems 2025.1.3",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall nvidia nsight systems 2025.1.3",
+    "label": "open_app"
+  },
+  {
+    "text": "open nsight monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "start nsight monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "launch nsight monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "run nsight monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up nsight monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up nsight monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate nsight monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "execute nsight monitor",
+    "label": "open_app"
+  },
+  {
+    "text": "open nsight redistributable",
+    "label": "open_app"
+  },
+  {
+    "text": "start nsight redistributable",
+    "label": "open_app"
+  },
+  {
+    "text": "launch nsight redistributable",
+    "label": "open_app"
+  },
+  {
+    "text": "run nsight redistributable",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up nsight redistributable",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up nsight redistributable",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate nsight redistributable",
+    "label": "open_app"
+  },
+  {
+    "text": "execute nsight redistributable",
+    "label": "open_app"
+  },
+  {
+    "text": "open browse nvidia tools extension",
+    "label": "open_app"
+  },
+  {
+    "text": "start browse nvidia tools extension",
+    "label": "open_app"
+  },
+  {
+    "text": "launch browse nvidia tools extension",
+    "label": "open_app"
+  },
+  {
+    "text": "run browse nvidia tools extension",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up browse nvidia tools extension",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up browse nvidia tools extension",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate browse nvidia tools extension",
+    "label": "open_app"
+  },
+  {
+    "text": "execute browse nvidia tools extension",
+    "label": "open_app"
+  },
+  {
+    "text": "open obs studio (64bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start obs studio (64bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch obs studio (64bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run obs studio (64bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up obs studio (64bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up obs studio (64bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate obs studio (64bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute obs studio (64bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open oracle odbc help",
+    "label": "open_app"
+  },
+  {
+    "text": "start oracle odbc help",
+    "label": "open_app"
+  },
+  {
+    "text": "launch oracle odbc help",
+    "label": "open_app"
+  },
+  {
+    "text": "run oracle odbc help",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up oracle odbc help",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up oracle odbc help",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate oracle odbc help",
+    "label": "open_app"
+  },
+  {
+    "text": "execute oracle odbc help",
+    "label": "open_app"
+  },
+  {
+    "text": "open sql plus",
+    "label": "open_app"
+  },
+  {
+    "text": "start sql plus",
+    "label": "open_app"
+  },
+  {
+    "text": "launch sql plus",
+    "label": "open_app"
+  },
+  {
+    "text": "run sql plus",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up sql plus",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up sql plus",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate sql plus",
+    "label": "open_app"
+  },
+  {
+    "text": "execute sql plus",
+    "label": "open_app"
+  },
+  {
+    "text": "open database configuration assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "start database configuration assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "launch database configuration assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "run database configuration assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up database configuration assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up database configuration assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate database configuration assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "execute database configuration assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "open database upgrade assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "start database upgrade assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "launch database upgrade assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "run database upgrade assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up database upgrade assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up database upgrade assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate database upgrade assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "execute database upgrade assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "open locale builder",
+    "label": "open_app"
+  },
+  {
+    "text": "start locale builder",
+    "label": "open_app"
+  },
+  {
+    "text": "launch locale builder",
+    "label": "open_app"
+  },
+  {
+    "text": "run locale builder",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up locale builder",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up locale builder",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate locale builder",
+    "label": "open_app"
+  },
+  {
+    "text": "execute locale builder",
+    "label": "open_app"
+  },
+  {
+    "text": "open microsoft odbc administrator",
+    "label": "open_app"
+  },
+  {
+    "text": "start microsoft odbc administrator",
+    "label": "open_app"
+  },
+  {
+    "text": "launch microsoft odbc administrator",
+    "label": "open_app"
+  },
+  {
+    "text": "run microsoft odbc administrator",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up microsoft odbc administrator",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up microsoft odbc administrator",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate microsoft odbc administrator",
+    "label": "open_app"
+  },
+  {
+    "text": "execute microsoft odbc administrator",
+    "label": "open_app"
+  },
+  {
+    "text": "open net configuration assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "start net configuration assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "launch net configuration assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "run net configuration assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up net configuration assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up net configuration assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate net configuration assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "execute net configuration assistant",
+    "label": "open_app"
+  },
+  {
+    "text": "open net manager",
+    "label": "open_app"
+  },
+  {
+    "text": "start net manager",
+    "label": "open_app"
+  },
+  {
+    "text": "launch net manager",
+    "label": "open_app"
+  },
+  {
+    "text": "run net manager",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up net manager",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up net manager",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate net manager",
+    "label": "open_app"
+  },
+  {
+    "text": "execute net manager",
+    "label": "open_app"
+  },
+  {
+    "text": "open oracle instance manager",
+    "label": "open_app"
+  },
+  {
+    "text": "start oracle instance manager",
+    "label": "open_app"
+  },
+  {
+    "text": "launch oracle instance manager",
+    "label": "open_app"
+  },
+  {
+    "text": "run oracle instance manager",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up oracle instance manager",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up oracle instance manager",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate oracle instance manager",
+    "label": "open_app"
+  },
+  {
+    "text": "execute oracle instance manager",
+    "label": "open_app"
+  },
+  {
+    "text": "open update password for oracle home user",
+    "label": "open_app"
+  },
+  {
+    "text": "start update password for oracle home user",
+    "label": "open_app"
+  },
+  {
+    "text": "launch update password for oracle home user",
+    "label": "open_app"
+  },
+  {
+    "text": "run update password for oracle home user",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up update password for oracle home user",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up update password for oracle home user",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate update password for oracle home user",
+    "label": "open_app"
+  },
+  {
+    "text": "execute update password for oracle home user",
+    "label": "open_app"
+  },
+  {
+    "text": "open wallet manager",
+    "label": "open_app"
+  },
+  {
+    "text": "start wallet manager",
+    "label": "open_app"
+  },
+  {
+    "text": "launch wallet manager",
+    "label": "open_app"
+  },
+  {
+    "text": "run wallet manager",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up wallet manager",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up wallet manager",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate wallet manager",
+    "label": "open_app"
+  },
+  {
+    "text": "execute wallet manager",
+    "label": "open_app"
+  },
+  {
+    "text": "open configure picasa photo viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "start configure picasa photo viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "launch configure picasa photo viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "run configure picasa photo viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up configure picasa photo viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up configure picasa photo viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate configure picasa photo viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "execute configure picasa photo viewer",
+    "label": "open_app"
+  },
+  {
+    "text": "open picasa 3",
+    "label": "open_app"
+  },
+  {
+    "text": "start picasa 3",
+    "label": "open_app"
+  },
+  {
+    "text": "launch picasa 3",
+    "label": "open_app"
+  },
+  {
+    "text": "run picasa 3",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up picasa 3",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up picasa 3",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate picasa 3",
+    "label": "open_app"
+  },
+  {
+    "text": "execute picasa 3",
+    "label": "open_app"
+  },
+  {
+    "text": "open pyscripter help",
+    "label": "open_app"
+  },
+  {
+    "text": "start pyscripter help",
+    "label": "open_app"
+  },
+  {
+    "text": "launch pyscripter help",
+    "label": "open_app"
+  },
+  {
+    "text": "run pyscripter help",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up pyscripter help",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up pyscripter help",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate pyscripter help",
+    "label": "open_app"
+  },
+  {
+    "text": "execute pyscripter help",
+    "label": "open_app"
+  },
+  {
+    "text": "open pyscripter",
+    "label": "open_app"
+  },
+  {
+    "text": "start pyscripter",
+    "label": "open_app"
+  },
+  {
+    "text": "launch pyscripter",
+    "label": "open_app"
+  },
+  {
+    "text": "run pyscripter",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up pyscripter",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up pyscripter",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate pyscripter",
+    "label": "open_app"
+  },
+  {
+    "text": "execute pyscripter",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall pyscripter",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall pyscripter",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall pyscripter",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall pyscripter",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall pyscripter",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall pyscripter",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall pyscripter",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall pyscripter",
+    "label": "open_app"
+  },
+  {
+    "text": "open idle (python 3.12 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start idle (python 3.12 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch idle (python 3.12 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run idle (python 3.12 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up idle (python 3.12 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up idle (python 3.12 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate idle (python 3.12 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute idle (python 3.12 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open python 3.12 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start python 3.12 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch python 3.12 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run python 3.12 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up python 3.12 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up python 3.12 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate python 3.12 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute python 3.12 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open python 3.12 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start python 3.12 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch python 3.12 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run python 3.12 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up python 3.12 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up python 3.12 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate python 3.12 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute python 3.12 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open python 3.12 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start python 3.12 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch python 3.12 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run python 3.12 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up python 3.12 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up python 3.12 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate python 3.12 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute python 3.12 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open steam",
+    "label": "open_app"
+  },
+  {
+    "text": "start steam",
+    "label": "open_app"
+  },
+  {
+    "text": "launch steam",
+    "label": "open_app"
+  },
+  {
+    "text": "run steam",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up steam",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up steam",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate steam",
+    "label": "open_app"
+  },
+  {
+    "text": "execute steam",
+    "label": "open_app"
+  },
+  {
+    "text": "open stellar repair for word",
+    "label": "open_app"
+  },
+  {
+    "text": "start stellar repair for word",
+    "label": "open_app"
+  },
+  {
+    "text": "launch stellar repair for word",
+    "label": "open_app"
+  },
+  {
+    "text": "run stellar repair for word",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up stellar repair for word",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up stellar repair for word",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate stellar repair for word",
+    "label": "open_app"
+  },
+  {
+    "text": "execute stellar repair for word",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall stellar repair for word",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall stellar repair for word",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall stellar repair for word",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall stellar repair for word",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall stellar repair for word",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall stellar repair for word",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall stellar repair for word",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall stellar repair for word",
+    "label": "open_app"
+  },
+  {
+    "text": "open task manager",
+    "label": "open_app"
+  },
+  {
+    "text": "start task manager",
+    "label": "open_app"
+  },
+  {
+    "text": "launch task manager",
+    "label": "open_app"
+  },
+  {
+    "text": "run task manager",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up task manager",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up task manager",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate task manager",
+    "label": "open_app"
+  },
+  {
+    "text": "execute task manager",
+    "label": "open_app"
+  },
+  {
+    "text": "open treesize free (administrator)",
+    "label": "open_app"
+  },
+  {
+    "text": "start treesize free (administrator)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch treesize free (administrator)",
+    "label": "open_app"
+  },
+  {
+    "text": "run treesize free (administrator)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up treesize free (administrator)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up treesize free (administrator)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate treesize free (administrator)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute treesize free (administrator)",
+    "label": "open_app"
+  },
+  {
+    "text": "open treesize free help",
+    "label": "open_app"
+  },
+  {
+    "text": "start treesize free help",
+    "label": "open_app"
+  },
+  {
+    "text": "launch treesize free help",
+    "label": "open_app"
+  },
+  {
+    "text": "run treesize free help",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up treesize free help",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up treesize free help",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate treesize free help",
+    "label": "open_app"
+  },
+  {
+    "text": "execute treesize free help",
+    "label": "open_app"
+  },
+  {
+    "text": "open treesize free",
+    "label": "open_app"
+  },
+  {
+    "text": "start treesize free",
+    "label": "open_app"
+  },
+  {
+    "text": "launch treesize free",
+    "label": "open_app"
+  },
+  {
+    "text": "run treesize free",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up treesize free",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up treesize free",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate treesize free",
+    "label": "open_app"
+  },
+  {
+    "text": "execute treesize free",
+    "label": "open_app"
+  },
+  {
+    "text": "open documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "start documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "launch documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "run documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "execute documentation",
+    "label": "open_app"
+  },
+  {
+    "text": "open release notes",
+    "label": "open_app"
+  },
+  {
+    "text": "start release notes",
+    "label": "open_app"
+  },
+  {
+    "text": "launch release notes",
+    "label": "open_app"
+  },
+  {
+    "text": "run release notes",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up release notes",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up release notes",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate release notes",
+    "label": "open_app"
+  },
+  {
+    "text": "execute release notes",
+    "label": "open_app"
+  },
+  {
+    "text": "open reset vlc media player preferences and cache files",
+    "label": "open_app"
+  },
+  {
+    "text": "start reset vlc media player preferences and cache files",
+    "label": "open_app"
+  },
+  {
+    "text": "launch reset vlc media player preferences and cache files",
+    "label": "open_app"
+  },
+  {
+    "text": "run reset vlc media player preferences and cache files",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up reset vlc media player preferences and cache files",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up reset vlc media player preferences and cache files",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate reset vlc media player preferences and cache files",
+    "label": "open_app"
+  },
+  {
+    "text": "execute reset vlc media player preferences and cache files",
+    "label": "open_app"
+  },
+  {
+    "text": "open videolan website",
+    "label": "open_app"
+  },
+  {
+    "text": "start videolan website",
+    "label": "open_app"
+  },
+  {
+    "text": "launch videolan website",
+    "label": "open_app"
+  },
+  {
+    "text": "run videolan website",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up videolan website",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up videolan website",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate videolan website",
+    "label": "open_app"
+  },
+  {
+    "text": "execute videolan website",
+    "label": "open_app"
+  },
+  {
+    "text": "open vlc media player - reset preferences and cache files",
+    "label": "open_app"
+  },
+  {
+    "text": "start vlc media player - reset preferences and cache files",
+    "label": "open_app"
+  },
+  {
+    "text": "launch vlc media player - reset preferences and cache files",
+    "label": "open_app"
+  },
+  {
+    "text": "run vlc media player - reset preferences and cache files",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up vlc media player - reset preferences and cache files",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up vlc media player - reset preferences and cache files",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate vlc media player - reset preferences and cache files",
+    "label": "open_app"
+  },
+  {
+    "text": "execute vlc media player - reset preferences and cache files",
+    "label": "open_app"
+  },
+  {
+    "text": "open vlc media player skinned",
+    "label": "open_app"
+  },
+  {
+    "text": "start vlc media player skinned",
+    "label": "open_app"
+  },
+  {
+    "text": "launch vlc media player skinned",
+    "label": "open_app"
+  },
+  {
+    "text": "run vlc media player skinned",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up vlc media player skinned",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up vlc media player skinned",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate vlc media player skinned",
+    "label": "open_app"
+  },
+  {
+    "text": "execute vlc media player skinned",
+    "label": "open_app"
+  },
+  {
+    "text": "open vlc media player",
+    "label": "open_app"
+  },
+  {
+    "text": "start vlc media player",
+    "label": "open_app"
+  },
+  {
+    "text": "launch vlc media player",
+    "label": "open_app"
+  },
+  {
+    "text": "run vlc media player",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up vlc media player",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up vlc media player",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate vlc media player",
+    "label": "open_app"
+  },
+  {
+    "text": "execute vlc media player",
+    "label": "open_app"
+  },
+  {
+    "text": "open android studio",
+    "label": "open_app"
+  },
+  {
+    "text": "start android studio",
+    "label": "open_app"
+  },
+  {
+    "text": "launch android studio",
+    "label": "open_app"
+  },
+  {
+    "text": "run android studio",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up android studio",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up android studio",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate android studio",
+    "label": "open_app"
+  },
+  {
+    "text": "execute android studio",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall winamp",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall winamp",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall winamp",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall winamp",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall winamp",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall winamp",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall winamp",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall winamp",
+    "label": "open_app"
+  },
+  {
+    "text": "open what's new",
+    "label": "open_app"
+  },
+  {
+    "text": "start what's new",
+    "label": "open_app"
+  },
+  {
+    "text": "launch what's new",
+    "label": "open_app"
+  },
+  {
+    "text": "run what's new",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up what's new",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up what's new",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate what's new",
+    "label": "open_app"
+  },
+  {
+    "text": "execute what's new",
+    "label": "open_app"
+  },
+  {
+    "text": "open winamp (safe mode)",
+    "label": "open_app"
+  },
+  {
+    "text": "start winamp (safe mode)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch winamp (safe mode)",
+    "label": "open_app"
+  },
+  {
+    "text": "run winamp (safe mode)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up winamp (safe mode)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up winamp (safe mode)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate winamp (safe mode)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute winamp (safe mode)",
+    "label": "open_app"
+  },
+  {
+    "text": "open winamp",
+    "label": "open_app"
+  },
+  {
+    "text": "start winamp",
+    "label": "open_app"
+  },
+  {
+    "text": "launch winamp",
+    "label": "open_app"
+  },
+  {
+    "text": "run winamp",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up winamp",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up winamp",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate winamp",
+    "label": "open_app"
+  },
+  {
+    "text": "execute winamp",
+    "label": "open_app"
+  },
+  {
+    "text": "open application verifier (x64)",
+    "label": "open_app"
+  },
+  {
+    "text": "start application verifier (x64)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch application verifier (x64)",
+    "label": "open_app"
+  },
+  {
+    "text": "run application verifier (x64)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up application verifier (x64)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up application verifier (x64)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate application verifier (x64)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute application verifier (x64)",
+    "label": "open_app"
+  },
+  {
+    "text": "open application verifier help",
+    "label": "open_app"
+  },
+  {
+    "text": "start application verifier help",
+    "label": "open_app"
+  },
+  {
+    "text": "launch application verifier help",
+    "label": "open_app"
+  },
+  {
+    "text": "run application verifier help",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up application verifier help",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up application verifier help",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate application verifier help",
+    "label": "open_app"
+  },
+  {
+    "text": "execute application verifier help",
+    "label": "open_app"
+  },
+  {
+    "text": "open application verifier (wow)",
+    "label": "open_app"
+  },
+  {
+    "text": "start application verifier (wow)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch application verifier (wow)",
+    "label": "open_app"
+  },
+  {
+    "text": "run application verifier (wow)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up application verifier (wow)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up application verifier (wow)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate application verifier (wow)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute application verifier (wow)",
+    "label": "open_app"
+  },
+  {
+    "text": "open windows app cert kit",
+    "label": "open_app"
+  },
+  {
+    "text": "start windows app cert kit",
+    "label": "open_app"
+  },
+  {
+    "text": "launch windows app cert kit",
+    "label": "open_app"
+  },
+  {
+    "text": "run windows app cert kit",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up windows app cert kit",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up windows app cert kit",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate windows app cert kit",
+    "label": "open_app"
+  },
+  {
+    "text": "execute windows app cert kit",
+    "label": "open_app"
+  },
+  {
+    "text": "open documentation for desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "start documentation for desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "launch documentation for desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "run documentation for desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up documentation for desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up documentation for desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate documentation for desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "execute documentation for desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "open documentation for uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "start documentation for uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "launch documentation for uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "run documentation for uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up documentation for uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up documentation for uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate documentation for uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "execute documentation for uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "open sample desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "start sample desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "launch sample desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "run sample desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up sample desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up sample desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate sample desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "execute sample desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "open sample uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "start sample uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "launch sample uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "run sample uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up sample uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up sample uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate sample uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "execute sample uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "open tools for desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "start tools for desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "launch tools for desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "run tools for desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up tools for desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up tools for desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate tools for desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "execute tools for desktop apps",
+    "label": "open_app"
+  },
+  {
+    "text": "open tools for uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "start tools for uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "launch tools for uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "run tools for uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up tools for uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up tools for uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate tools for uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "execute tools for uwp apps",
+    "label": "open_app"
+  },
+  {
+    "text": "open windows software development kit",
+    "label": "open_app"
+  },
+  {
+    "text": "start windows software development kit",
+    "label": "open_app"
+  },
+  {
+    "text": "launch windows software development kit",
+    "label": "open_app"
+  },
+  {
+    "text": "run windows software development kit",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up windows software development kit",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up windows software development kit",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate windows software development kit",
+    "label": "open_app"
+  },
+  {
+    "text": "execute windows software development kit",
+    "label": "open_app"
+  },
+  {
+    "text": "open windows powershell ise (x86)",
+    "label": "open_app"
+  },
+  {
+    "text": "start windows powershell ise (x86)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch windows powershell ise (x86)",
+    "label": "open_app"
+  },
+  {
+    "text": "run windows powershell ise (x86)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up windows powershell ise (x86)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up windows powershell ise (x86)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate windows powershell ise (x86)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute windows powershell ise (x86)",
+    "label": "open_app"
+  },
+  {
+    "text": "open windows powershell ise",
+    "label": "open_app"
+  },
+  {
+    "text": "start windows powershell ise",
+    "label": "open_app"
+  },
+  {
+    "text": "launch windows powershell ise",
+    "label": "open_app"
+  },
+  {
+    "text": "run windows powershell ise",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up windows powershell ise",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up windows powershell ise",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate windows powershell ise",
+    "label": "open_app"
+  },
+  {
+    "text": "execute windows powershell ise",
+    "label": "open_app"
+  },
+  {
+    "text": "open console rar manual",
+    "label": "open_app"
+  },
+  {
+    "text": "start console rar manual",
+    "label": "open_app"
+  },
+  {
+    "text": "launch console rar manual",
+    "label": "open_app"
+  },
+  {
+    "text": "run console rar manual",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up console rar manual",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up console rar manual",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate console rar manual",
+    "label": "open_app"
+  },
+  {
+    "text": "execute console rar manual",
+    "label": "open_app"
+  },
+  {
+    "text": "open what is new in the latest version",
+    "label": "open_app"
+  },
+  {
+    "text": "start what is new in the latest version",
+    "label": "open_app"
+  },
+  {
+    "text": "launch what is new in the latest version",
+    "label": "open_app"
+  },
+  {
+    "text": "run what is new in the latest version",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up what is new in the latest version",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up what is new in the latest version",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate what is new in the latest version",
+    "label": "open_app"
+  },
+  {
+    "text": "execute what is new in the latest version",
+    "label": "open_app"
+  },
+  {
+    "text": "open winrar help",
+    "label": "open_app"
+  },
+  {
+    "text": "start winrar help",
+    "label": "open_app"
+  },
+  {
+    "text": "launch winrar help",
+    "label": "open_app"
+  },
+  {
+    "text": "run winrar help",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up winrar help",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up winrar help",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate winrar help",
+    "label": "open_app"
+  },
+  {
+    "text": "execute winrar help",
+    "label": "open_app"
+  },
+  {
+    "text": "open winrar",
+    "label": "open_app"
+  },
+  {
+    "text": "start winrar",
+    "label": "open_app"
+  },
+  {
+    "text": "launch winrar",
+    "label": "open_app"
+  },
+  {
+    "text": "run winrar",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up winrar",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up winrar",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate winrar",
+    "label": "open_app"
+  },
+  {
+    "text": "execute winrar",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall xampp",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall xampp",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall xampp",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall xampp",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall xampp",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall xampp",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall xampp",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall xampp",
+    "label": "open_app"
+  },
+  {
+    "text": "open xampp control panel",
+    "label": "open_app"
+  },
+  {
+    "text": "start xampp control panel",
+    "label": "open_app"
+  },
+  {
+    "text": "launch xampp control panel",
+    "label": "open_app"
+  },
+  {
+    "text": "run xampp control panel",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up xampp control panel",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up xampp control panel",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate xampp control panel",
+    "label": "open_app"
+  },
+  {
+    "text": "execute xampp control panel",
+    "label": "open_app"
+  },
+  {
+    "text": "open xampp htdocs folder",
+    "label": "open_app"
+  },
+  {
+    "text": "start xampp htdocs folder",
+    "label": "open_app"
+  },
+  {
+    "text": "launch xampp htdocs folder",
+    "label": "open_app"
+  },
+  {
+    "text": "run xampp htdocs folder",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up xampp htdocs folder",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up xampp htdocs folder",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate xampp htdocs folder",
+    "label": "open_app"
+  },
+  {
+    "text": "execute xampp htdocs folder",
+    "label": "open_app"
+  },
+  {
+    "text": "open administrative tools",
+    "label": "open_app"
+  },
+  {
+    "text": "start administrative tools",
+    "label": "open_app"
+  },
+  {
+    "text": "launch administrative tools",
+    "label": "open_app"
+  },
+  {
+    "text": "run administrative tools",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up administrative tools",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up administrative tools",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate administrative tools",
+    "label": "open_app"
+  },
+  {
+    "text": "execute administrative tools",
+    "label": "open_app"
+  },
+  {
+    "text": "open file explorer",
+    "label": "open_app"
+  },
+  {
+    "text": "start file explorer",
+    "label": "open_app"
+  },
+  {
+    "text": "launch file explorer",
+    "label": "open_app"
+  },
+  {
+    "text": "run file explorer",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up file explorer",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up file explorer",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate file explorer",
+    "label": "open_app"
+  },
+  {
+    "text": "execute file explorer",
+    "label": "open_app"
+  },
+  {
+    "text": "open mods",
+    "label": "open_app"
+  },
+  {
+    "text": "start mods",
+    "label": "open_app"
+  },
+  {
+    "text": "launch mods",
+    "label": "open_app"
+  },
+  {
+    "text": "run mods",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up mods",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up mods",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate mods",
+    "label": "open_app"
+  },
+  {
+    "text": "execute mods",
+    "label": "open_app"
+  },
+  {
+    "text": "open spotify",
+    "label": "open_app"
+  },
+  {
+    "text": "start spotify",
+    "label": "open_app"
+  },
+  {
+    "text": "launch spotify",
+    "label": "open_app"
+  },
+  {
+    "text": "run spotify",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up spotify",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up spotify",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate spotify",
+    "label": "open_app"
+  },
+  {
+    "text": "execute spotify",
+    "label": "open_app"
+  },
+  {
+    "text": "open tor browser",
+    "label": "open_app"
+  },
+  {
+    "text": "start tor browser",
+    "label": "open_app"
+  },
+  {
+    "text": "launch tor browser",
+    "label": "open_app"
+  },
+  {
+    "text": "run tor browser",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up tor browser",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up tor browser",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate tor browser",
+    "label": "open_app"
+  },
+  {
+    "text": "execute tor browser",
+    "label": "open_app"
+  },
+  {
+    "text": "open treesizefree.exe",
+    "label": "open_app"
+  },
+  {
+    "text": "start treesizefree.exe",
+    "label": "open_app"
+  },
+  {
+    "text": "launch treesizefree.exe",
+    "label": "open_app"
+  },
+  {
+    "text": "run treesizefree.exe",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up treesizefree.exe",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up treesizefree.exe",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate treesizefree.exe",
+    "label": "open_app"
+  },
+  {
+    "text": "execute treesizefree.exe",
+    "label": "open_app"
+  },
+  {
+    "text": "open livecaptions",
+    "label": "open_app"
+  },
+  {
+    "text": "start livecaptions",
+    "label": "open_app"
+  },
+  {
+    "text": "launch livecaptions",
+    "label": "open_app"
+  },
+  {
+    "text": "run livecaptions",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up livecaptions",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up livecaptions",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate livecaptions",
+    "label": "open_app"
+  },
+  {
+    "text": "execute livecaptions",
+    "label": "open_app"
+  },
+  {
+    "text": "open magnify",
+    "label": "open_app"
+  },
+  {
+    "text": "start magnify",
+    "label": "open_app"
+  },
+  {
+    "text": "launch magnify",
+    "label": "open_app"
+  },
+  {
+    "text": "run magnify",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up magnify",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up magnify",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate magnify",
+    "label": "open_app"
+  },
+  {
+    "text": "execute magnify",
+    "label": "open_app"
+  },
+  {
+    "text": "open narrator",
+    "label": "open_app"
+  },
+  {
+    "text": "start narrator",
+    "label": "open_app"
+  },
+  {
+    "text": "launch narrator",
+    "label": "open_app"
+  },
+  {
+    "text": "run narrator",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up narrator",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up narrator",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate narrator",
+    "label": "open_app"
+  },
+  {
+    "text": "execute narrator",
+    "label": "open_app"
+  },
+  {
+    "text": "open on-screen keyboard",
+    "label": "open_app"
+  },
+  {
+    "text": "start on-screen keyboard",
+    "label": "open_app"
+  },
+  {
+    "text": "launch on-screen keyboard",
+    "label": "open_app"
+  },
+  {
+    "text": "run on-screen keyboard",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up on-screen keyboard",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up on-screen keyboard",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate on-screen keyboard",
+    "label": "open_app"
+  },
+  {
+    "text": "execute on-screen keyboard",
+    "label": "open_app"
+  },
+  {
+    "text": "open voiceaccess",
+    "label": "open_app"
+  },
+  {
+    "text": "start voiceaccess",
+    "label": "open_app"
+  },
+  {
+    "text": "launch voiceaccess",
+    "label": "open_app"
+  },
+  {
+    "text": "run voiceaccess",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up voiceaccess",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up voiceaccess",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate voiceaccess",
+    "label": "open_app"
+  },
+  {
+    "text": "execute voiceaccess",
+    "label": "open_app"
+  },
+  {
+    "text": "open amazon.in",
+    "label": "open_app"
+  },
+  {
+    "text": "start amazon.in",
+    "label": "open_app"
+  },
+  {
+    "text": "launch amazon.in",
+    "label": "open_app"
+  },
+  {
+    "text": "run amazon.in",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up amazon.in",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up amazon.in",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate amazon.in",
+    "label": "open_app"
+  },
+  {
+    "text": "execute amazon.in",
+    "label": "open_app"
+  },
+  {
+    "text": "open chatgpt",
+    "label": "open_app"
+  },
+  {
+    "text": "start chatgpt",
+    "label": "open_app"
+  },
+  {
+    "text": "launch chatgpt",
+    "label": "open_app"
+  },
+  {
+    "text": "run chatgpt",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up chatgpt",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up chatgpt",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate chatgpt",
+    "label": "open_app"
+  },
+  {
+    "text": "execute chatgpt",
+    "label": "open_app"
+  },
+  {
+    "text": "open claude",
+    "label": "open_app"
+  },
+  {
+    "text": "start claude",
+    "label": "open_app"
+  },
+  {
+    "text": "launch claude",
+    "label": "open_app"
+  },
+  {
+    "text": "run claude",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up claude",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up claude",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate claude",
+    "label": "open_app"
+  },
+  {
+    "text": "execute claude",
+    "label": "open_app"
+  },
+  {
+    "text": "open deep learning for computer vision - course",
+    "label": "open_app"
+  },
+  {
+    "text": "start deep learning for computer vision - course",
+    "label": "open_app"
+  },
+  {
+    "text": "launch deep learning for computer vision - course",
+    "label": "open_app"
+  },
+  {
+    "text": "run deep learning for computer vision - course",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up deep learning for computer vision - course",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up deep learning for computer vision - course",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate deep learning for computer vision - course",
+    "label": "open_app"
+  },
+  {
+    "text": "execute deep learning for computer vision - course",
+    "label": "open_app"
+  },
+  {
+    "text": "open deepseek - into the unknown",
+    "label": "open_app"
+  },
+  {
+    "text": "start deepseek - into the unknown",
+    "label": "open_app"
+  },
+  {
+    "text": "launch deepseek - into the unknown",
+    "label": "open_app"
+  },
+  {
+    "text": "run deepseek - into the unknown",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up deepseek - into the unknown",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up deepseek - into the unknown",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate deepseek - into the unknown",
+    "label": "open_app"
+  },
+  {
+    "text": "execute deepseek - into the unknown",
+    "label": "open_app"
+  },
+  {
+    "text": "open google maps",
+    "label": "open_app"
+  },
+  {
+    "text": "start google maps",
+    "label": "open_app"
+  },
+  {
+    "text": "launch google maps",
+    "label": "open_app"
+  },
+  {
+    "text": "run google maps",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up google maps",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up google maps",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate google maps",
+    "label": "open_app"
+  },
+  {
+    "text": "execute google maps",
+    "label": "open_app"
+  },
+  {
+    "text": "open google password manager",
+    "label": "open_app"
+  },
+  {
+    "text": "start google password manager",
+    "label": "open_app"
+  },
+  {
+    "text": "launch google password manager",
+    "label": "open_app"
+  },
+  {
+    "text": "run google password manager",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up google password manager",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up google password manager",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate google password manager",
+    "label": "open_app"
+  },
+  {
+    "text": "execute google password manager",
+    "label": "open_app"
+  },
+  {
+    "text": "open grok",
+    "label": "open_app"
+  },
+  {
+    "text": "start grok",
+    "label": "open_app"
+  },
+  {
+    "text": "launch grok",
+    "label": "open_app"
+  },
+  {
+    "text": "run grok",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up grok",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up grok",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate grok",
+    "label": "open_app"
+  },
+  {
+    "text": "execute grok",
+    "label": "open_app"
+  },
+  {
+    "text": "open introduction to machine learning",
+    "label": "open_app"
+  },
+  {
+    "text": "start introduction to machine learning",
+    "label": "open_app"
+  },
+  {
+    "text": "launch introduction to machine learning",
+    "label": "open_app"
+  },
+  {
+    "text": "run introduction to machine learning",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up introduction to machine learning",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up introduction to machine learning",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate introduction to machine learning",
+    "label": "open_app"
+  },
+  {
+    "text": "execute introduction to machine learning",
+    "label": "open_app"
+  },
+  {
+    "text": "open kaggle  your home for data science",
+    "label": "open_app"
+  },
+  {
+    "text": "start kaggle  your home for data science",
+    "label": "open_app"
+  },
+  {
+    "text": "launch kaggle  your home for data science",
+    "label": "open_app"
+  },
+  {
+    "text": "run kaggle  your home for data science",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up kaggle  your home for data science",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up kaggle  your home for data science",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate kaggle  your home for data science",
+    "label": "open_app"
+  },
+  {
+    "text": "execute kaggle  your home for data science",
+    "label": "open_app"
+  },
+  {
+    "text": "open manganato",
+    "label": "open_app"
+  },
+  {
+    "text": "start manganato",
+    "label": "open_app"
+  },
+  {
+    "text": "launch manganato",
+    "label": "open_app"
+  },
+  {
+    "text": "run manganato",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up manganato",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up manganato",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate manganato",
+    "label": "open_app"
+  },
+  {
+    "text": "execute manganato",
+    "label": "open_app"
+  },
+  {
+    "text": "open nexusmods",
+    "label": "open_app"
+  },
+  {
+    "text": "start nexusmods",
+    "label": "open_app"
+  },
+  {
+    "text": "launch nexusmods",
+    "label": "open_app"
+  },
+  {
+    "text": "run nexusmods",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up nexusmods",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up nexusmods",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate nexusmods",
+    "label": "open_app"
+  },
+  {
+    "text": "execute nexusmods",
+    "label": "open_app"
+  },
+  {
+    "text": "open qwen",
+    "label": "open_app"
+  },
+  {
+    "text": "start qwen",
+    "label": "open_app"
+  },
+  {
+    "text": "launch qwen",
+    "label": "open_app"
+  },
+  {
+    "text": "run qwen",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up qwen",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up qwen",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate qwen",
+    "label": "open_app"
+  },
+  {
+    "text": "execute qwen",
+    "label": "open_app"
+  },
+  {
+    "text": "open reddit",
+    "label": "open_app"
+  },
+  {
+    "text": "start reddit",
+    "label": "open_app"
+  },
+  {
+    "text": "launch reddit",
+    "label": "open_app"
+  },
+  {
+    "text": "run reddit",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up reddit",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up reddit",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate reddit",
+    "label": "open_app"
+  },
+  {
+    "text": "execute reddit",
+    "label": "open_app"
+  },
+  {
+    "text": "open udemy",
+    "label": "open_app"
+  },
+  {
+    "text": "start udemy",
+    "label": "open_app"
+  },
+  {
+    "text": "launch udemy",
+    "label": "open_app"
+  },
+  {
+    "text": "run udemy",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up udemy",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up udemy",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate udemy",
+    "label": "open_app"
+  },
+  {
+    "text": "execute udemy",
+    "label": "open_app"
+  },
+  {
+    "text": "open youtube",
+    "label": "open_app"
+  },
+  {
+    "text": "start youtube",
+    "label": "open_app"
+  },
+  {
+    "text": "launch youtube",
+    "label": "open_app"
+  },
+  {
+    "text": "run youtube",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up youtube",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up youtube",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate youtube",
+    "label": "open_app"
+  },
+  {
+    "text": "execute youtube",
+    "label": "open_app"
+  },
+  {
+    "text": "open discord",
+    "label": "open_app"
+  },
+  {
+    "text": "start discord",
+    "label": "open_app"
+  },
+  {
+    "text": "launch discord",
+    "label": "open_app"
+  },
+  {
+    "text": "run discord",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up discord",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up discord",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate discord",
+    "label": "open_app"
+  },
+  {
+    "text": "execute discord",
+    "label": "open_app"
+  },
+  {
+    "text": "open cloud tools for powershell",
+    "label": "open_app"
+  },
+  {
+    "text": "start cloud tools for powershell",
+    "label": "open_app"
+  },
+  {
+    "text": "launch cloud tools for powershell",
+    "label": "open_app"
+  },
+  {
+    "text": "run cloud tools for powershell",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up cloud tools for powershell",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up cloud tools for powershell",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate cloud tools for powershell",
+    "label": "open_app"
+  },
+  {
+    "text": "execute cloud tools for powershell",
+    "label": "open_app"
+  },
+  {
+    "text": "open google cloud sdk shell",
+    "label": "open_app"
+  },
+  {
+    "text": "start google cloud sdk shell",
+    "label": "open_app"
+  },
+  {
+    "text": "launch google cloud sdk shell",
+    "label": "open_app"
+  },
+  {
+    "text": "run google cloud sdk shell",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up google cloud sdk shell",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up google cloud sdk shell",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate google cloud sdk shell",
+    "label": "open_app"
+  },
+  {
+    "text": "execute google cloud sdk shell",
+    "label": "open_app"
+  },
+  {
+    "text": "open idle (python 3.10 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start idle (python 3.10 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch idle (python 3.10 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run idle (python 3.10 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up idle (python 3.10 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up idle (python 3.10 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate idle (python 3.10 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute idle (python 3.10 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open python 3.10 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start python 3.10 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch python 3.10 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run python 3.10 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up python 3.10 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up python 3.10 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate python 3.10 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute python 3.10 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open python 3.10 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start python 3.10 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch python 3.10 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run python 3.10 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up python 3.10 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up python 3.10 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate python 3.10 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute python 3.10 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open python 3.10 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start python 3.10 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch python 3.10 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run python 3.10 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up python 3.10 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up python 3.10 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate python 3.10 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute python 3.10 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open idle (python 3.13 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start idle (python 3.13 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch idle (python 3.13 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run idle (python 3.13 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up idle (python 3.13 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up idle (python 3.13 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate idle (python 3.13 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute idle (python 3.13 64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open python 3.13 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start python 3.13 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch python 3.13 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run python 3.13 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up python 3.13 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up python 3.13 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate python 3.13 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute python 3.13 (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open python 3.13 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start python 3.13 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch python 3.13 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run python 3.13 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up python 3.13 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up python 3.13 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate python 3.13 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute python 3.13 manuals (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open python 3.13 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "start python 3.13 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch python 3.13 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "run python 3.13 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up python 3.13 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up python 3.13 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate python 3.13 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute python 3.13 module docs (64-bit)",
+    "label": "open_app"
+  },
+  {
+    "text": "open main",
+    "label": "open_app"
+  },
+  {
+    "text": "start main",
+    "label": "open_app"
+  },
+  {
+    "text": "launch main",
+    "label": "open_app"
+  },
+  {
+    "text": "run main",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up main",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up main",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate main",
+    "label": "open_app"
+  },
+  {
+    "text": "execute main",
+    "label": "open_app"
+  },
+  {
+    "text": "open send to onenote",
+    "label": "open_app"
+  },
+  {
+    "text": "start send to onenote",
+    "label": "open_app"
+  },
+  {
+    "text": "launch send to onenote",
+    "label": "open_app"
+  },
+  {
+    "text": "run send to onenote",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up send to onenote",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up send to onenote",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate send to onenote",
+    "label": "open_app"
+  },
+  {
+    "text": "execute send to onenote",
+    "label": "open_app"
+  },
+  {
+    "text": "open command prompt",
+    "label": "open_app"
+  },
+  {
+    "text": "start command prompt",
+    "label": "open_app"
+  },
+  {
+    "text": "launch command prompt",
+    "label": "open_app"
+  },
+  {
+    "text": "run command prompt",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up command prompt",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up command prompt",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate command prompt",
+    "label": "open_app"
+  },
+  {
+    "text": "execute command prompt",
+    "label": "open_app"
+  },
+  {
+    "text": "open control panel",
+    "label": "open_app"
+  },
+  {
+    "text": "start control panel",
+    "label": "open_app"
+  },
+  {
+    "text": "launch control panel",
+    "label": "open_app"
+  },
+  {
+    "text": "run control panel",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up control panel",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up control panel",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate control panel",
+    "label": "open_app"
+  },
+  {
+    "text": "execute control panel",
+    "label": "open_app"
+  },
+  {
+    "text": "open run",
+    "label": "open_app"
+  },
+  {
+    "text": "start run",
+    "label": "open_app"
+  },
+  {
+    "text": "launch run",
+    "label": "open_app"
+  },
+  {
+    "text": "run run",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up run",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up run",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate run",
+    "label": "open_app"
+  },
+  {
+    "text": "execute run",
+    "label": "open_app"
+  },
+  {
+    "text": "open visual studio code",
+    "label": "open_app"
+  },
+  {
+    "text": "start visual studio code",
+    "label": "open_app"
+  },
+  {
+    "text": "launch visual studio code",
+    "label": "open_app"
+  },
+  {
+    "text": "run visual studio code",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up visual studio code",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up visual studio code",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate visual studio code",
+    "label": "open_app"
+  },
+  {
+    "text": "execute visual studio code",
+    "label": "open_app"
+  },
+  {
+    "text": "open webex",
+    "label": "open_app"
+  },
+  {
+    "text": "start webex",
+    "label": "open_app"
+  },
+  {
+    "text": "launch webex",
+    "label": "open_app"
+  },
+  {
+    "text": "run webex",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up webex",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up webex",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate webex",
+    "label": "open_app"
+  },
+  {
+    "text": "execute webex",
+    "label": "open_app"
+  },
+  {
+    "text": "open windows powershell (x86)",
+    "label": "open_app"
+  },
+  {
+    "text": "start windows powershell (x86)",
+    "label": "open_app"
+  },
+  {
+    "text": "launch windows powershell (x86)",
+    "label": "open_app"
+  },
+  {
+    "text": "run windows powershell (x86)",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up windows powershell (x86)",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up windows powershell (x86)",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate windows powershell (x86)",
+    "label": "open_app"
+  },
+  {
+    "text": "execute windows powershell (x86)",
+    "label": "open_app"
+  },
+  {
+    "text": "open windows powershell",
+    "label": "open_app"
+  },
+  {
+    "text": "start windows powershell",
+    "label": "open_app"
+  },
+  {
+    "text": "launch windows powershell",
+    "label": "open_app"
+  },
+  {
+    "text": "run windows powershell",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up windows powershell",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up windows powershell",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate windows powershell",
+    "label": "open_app"
+  },
+  {
+    "text": "execute windows powershell",
+    "label": "open_app"
+  },
+  {
+    "text": "open uninstall zoom",
+    "label": "open_app"
+  },
+  {
+    "text": "start uninstall zoom",
+    "label": "open_app"
+  },
+  {
+    "text": "launch uninstall zoom",
+    "label": "open_app"
+  },
+  {
+    "text": "run uninstall zoom",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up uninstall zoom",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up uninstall zoom",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate uninstall zoom",
+    "label": "open_app"
+  },
+  {
+    "text": "execute uninstall zoom",
+    "label": "open_app"
+  },
+  {
+    "text": "open zoom",
+    "label": "open_app"
+  },
+  {
+    "text": "start zoom",
+    "label": "open_app"
+  },
+  {
+    "text": "launch zoom",
+    "label": "open_app"
+  },
+  {
+    "text": "run zoom",
+    "label": "open_app"
+  },
+  {
+    "text": "fire up zoom",
+    "label": "open_app"
+  },
+  {
+    "text": "boot up zoom",
+    "label": "open_app"
+  },
+  {
+    "text": "initiate zoom",
+    "label": "open_app"
+  },
+  {
+    "text": "execute zoom",
+    "label": "open_app"
+  },
+  {
+    "text": "what time is it",
+    "label": "get_time"
+  },
+  {
+    "text": "search python tutorials",
+    "label": "search_web"
+  },
+  {
+    "text": "type hello world",
+    "label": "type_text"
+  },
+  {
+    "text": "exit assistant",
+    "label": "exit"
+  }
+]
