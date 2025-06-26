@@ -4,4 +4,7 @@ pyaudio
 pyinstaller
 vosk
 rapidfuzz
+scikit-learn 
+pandas
+keyboard
 
