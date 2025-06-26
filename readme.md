@@ -1,126 +1,100 @@
+# Aizen - Offline AI Desktop Assistant
 
-# Aizen: Offline Voice Assistant for Windows
-
-Aizen is a local desktop voice assistant that runs entirely offline. It listens for commands, speaks responses, and helps navigate the system with minimal reliance on keyboard or mouse. Inspired by Sosuke Aizen (*Bleach*), it uses Vosk for offline speech recognition and pyttsx3 for voice output.
-
----
-
-## Features
-
-- Offline speech recognition using Vosk
-- Text-to-speech responses via pyttsx3
-- Open installed applications using fuzzy matching
-- Web search via voice commands
-- Text input simulation
-- Time reporting
-- Startup logging and persistent model paths
-- Configurable to run at system startup
+**Aizen** is a voice-activated AI assistant that runs locally on your Windows system. It can open any installed application, search the web, type dictated text, and respond with conversational intelligence powered by a local LLaMA 3 model. It features offline voice recognition (Vosk), TTS, intent parsing, and app control.
 
 ---
 
-## Requirements
+## 🔧 Features
 
-- Windows 10/11
-- Python 3.10+
-- A functional microphone
-- Basic text-to-speech voices installed (e.g., Microsoft Zira, David, Hazel)
+-  **Offline Voice Recognition** using [Vosk](https://alphacephei.com/vosk/)
+-  **Conversational AI** using [LLaMA 3 via Ollama](https://ollama.com/)
+-  **Intelligent App Launcher** with fuzzy matching (RapidFuzz)
+-  **Custom Voice Personality**: Speaks like Sosuke Aizen from *Bleach*
+-  **Modular Design**: Easily extendable and readable architecture
+-  **Natural Command Parsing**: Opens apps, types text, or searches based on free-form prompts
+-  **No API Keys Required**: Fully local and offline
 
 ---
 
-## Installation
+## 📁 Project Structure
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Codeboi007/Aizen.git
-cd Aizen
-````
-
-### 2. Create a virtual environment and activate it
-
-```bash
-python -m venv Aizen
-Aizen\Scripts\activate
 ```
 
-### 3. Install dependencies
+Aizen/
+├── main.py                    # Main orchestrator loop
+├── app\_index.json             # App name to path mappings
+├── vosk-model-small-en-us-0.15/  # Vosk model directory
+├── Functions/
+│   ├── **init**.py
+│   ├── speech\_engine.py       # Handles text-to-speech
+│   ├── listener.py            # Voice recognition using Vosk
+│   ├── llama\_interface.py     # Sends prompts to local LLaMA
+│   ├── commands.py            # Parses and executes commands
+│   ├── model\_loader.py        # Loads the Vosk model and recognizer
+├── script.py                   #run this to create app indexes on your local machine
+├── training.py                 #run this to train a Classifier with a custom json dataset
+
+````
+
+---
+
+## 🛠️ Requirements
+
+- Python 3.10+
+- [Ollama](https://ollama.com/) (running `llama3` model locally)
+- [Vosk Model](https://alphacephei.com/vosk/models) (e.g. `vosk-model-small-en-us-0.15`)
+
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-```
+````
+
 
 ---
 
-## Vosk Model Setup
+##  Usage
 
-1. Download the model: [vosk-model-small-en-us-0.15](https://alphacephei.com/vosk/models)
-2. Extract the folder `vosk-model-small-en-us-0.15` into the project directory
+1. Create your `app_index.json` in the root folder:
 
-Example directory layout:
 
-```
-Aizen/
-├── main.py
-├── vosk-model-small-en-us-0.15/
-├── app_index.json
+2. Start the Ollama LLaMA 3 server:
+
+```bash
+ollama run llama3
 ```
 
----
-
-## Usage
-
-Run the assistant:
+3. Run the assistant:
 
 ```bash
 python main.py
 ```
 
-You can use voice commands like:
+---
 
-* `open chrome`
-* `search python tutorial`
-* `type hello world`
-* `what time is it`
-* `exit`
+##  Examples
+
+* “Open Chrome”
+* “Type Hello world”
+* “Search machine learning courses”
+* “What’s the time?”
+* “Goodbye”
 
 ---
 
-## Building as Executable
+##  Future Improvements
 
-To package the assistant as a standalone Windows `.exe`:
-
-```bash
-pyinstaller main.spec
-```
-
-Move the resulting `.exe` from `dist/` into your system's startup folder to launch Aizen automatically on boot:
-
-```
-C:\Users\<YourUsername>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
-```
+* Replace pyttsx3 with **Coqui TTS** for a high-quality, expressive Japanese male voice
+* Memory + context using a lightweight vector DB
+* Training an **intent classifier** for better accuracy
+* Auto-index new apps on system
 
 ---
 
-## App Indexing
+##  Notes
 
-Aizen builds a searchable `app_index.json` by scanning installed applications. It uses fuzzy matching to recognize voice commands and open the correct executable.
+* The assistant runs entirely **offline**
+* Ollama must be running in the background for conversation to work
+* `vosk-model-small-en-us-0.15` must be extracted into the root or included in the `dist` build
 
----
-
-## Logs and Debugging
-
-* `assistant_log.txt` stores startup logs and execution notes
-* `model_debug.txt` confirms the Vosk model path used during runtime
-
----
-
-## Future Improvements
-
-* Integrate Coqui TTS for more natural voice synthesis
-* Add LLaMA 3 for conversational capabilities
-* Support context-aware multi-turn conversation
-* Custom voice styles (e.g., Sosuke Aizen's tone)
-* Dynamic configuration panel
-
----
 
